@@ -1,2 +1,2 @@
 Library Management System ==> WPF
-==> The project solution is inside the LibraryMS folder. 
+==> The project solution is inside the LibraryMSWF folder. 
