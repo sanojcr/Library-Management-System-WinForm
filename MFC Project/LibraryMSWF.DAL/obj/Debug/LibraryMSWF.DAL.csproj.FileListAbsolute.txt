@@ -1,0 +1,12 @@
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb

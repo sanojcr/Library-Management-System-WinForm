@@ -1,0 +1,18 @@
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\bin\Debug\LibraryMSWF.BL.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\bin\Debug\LibraryMSWF.BL.pdb
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.csproj.CopyComplete
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.pdb
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\bin\Debug\LibraryMSWF.BL.dll
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\bin\Debug\LibraryMSWF.BL.pdb
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.csproj.CopyComplete
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.dll
+C:\Users\ideapad\Desktop\New folder\LibraryMSWF.BL\obj\Debug\LibraryMSWF.BL.pdb
